@@ -1,4 +1,4 @@
-## Updated on 2026.05.25
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**|Zhiyu Huang et.al.|[2605.31572](http://arxiv.org/abs/2605.31572)|null|
+|**2026-05-29**|**DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation**|Taiyi Su et.al.|[2605.31286](http://arxiv.org/abs/2605.31286)|null|
+|**2026-05-29**|**DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions**|Weicheng Zheng et.al.|[2605.31271](http://arxiv.org/abs/2605.31271)|null|
+|**2026-05-29**|**HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model**|Xiang Zhu et.al.|[2605.31234](http://arxiv.org/abs/2605.31234)|null|
+|**2026-05-29**|**Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air**|Tianle Zeng et.al.|[2605.31066](http://arxiv.org/abs/2605.31066)|null|
+|**2026-05-29**|**Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?**|Jingtao He et.al.|[2605.31041](http://arxiv.org/abs/2605.31041)|null|
+|**2026-05-29**|**RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning**|Zijian Zhu et.al.|[2605.30957](http://arxiv.org/abs/2605.30957)|null|
+|**2026-05-29**|**Wall-OSS-0.5 Technical Report**|Ryan Yu et.al.|[2605.30877](http://arxiv.org/abs/2605.30877)|null|
+|**2026-05-29**|**Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring**|Seongheon Park et.al.|[2605.30834](http://arxiv.org/abs/2605.30834)|null|
+|**2026-05-29**|**Feat2Go: Visual Feature-Grounded Value Estimation for Embodied Reinforcement Learning**|Junyang Shu et.al.|[2605.30795](http://arxiv.org/abs/2605.30795)|null|
 |**2026-05-20**|**Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs**|Abhinaw Priyadershi et.al.|[2605.21446](http://arxiv.org/abs/2605.21446)|null|
 |**2026-05-20**|**PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction**|Shizhe Chen et.al.|[2605.21414](http://arxiv.org/abs/2605.21414)|null|
 |**2026-05-20**|**DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions**|Weicheng Zheng et.al.|[2605.21273](http://arxiv.org/abs/2605.21273)|null|
@@ -23,7 +33,7 @@
 |**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
 |**2026-05-19**|**The PARADIGM Project II: Characterising Nuclear and Diffuse Radio Components in Local U/LIRGs**|Geferson Lucatelli et.al.|[2605.19658](http://arxiv.org/abs/2605.19658)|null|
 
-<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
