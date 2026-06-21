@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**MemoryWAM: Efficient World Action Modeling with Persistent Memory**|Sizhe Yang et.al.|[2606.20562](http://arxiv.org/abs/2606.20562)|null|
+|**2026-06-18**|**Slow Brain, Fast Planner: Latency-Resilient VLM-Augmented Urban Navigation**|Zhenghao "Mark'' Peng et.al.|[2606.20458](http://arxiv.org/abs/2606.20458)|null|
+|**2026-06-18**|**Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems**|Yandong Wang et.al.|[2606.20285](http://arxiv.org/abs/2606.20285)|null|
+|**2026-06-18**|**Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving**|Shihao Ji et.al.|[2606.20274](http://arxiv.org/abs/2606.20274)|null|
+|**2026-06-18**|**Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think**|Gia-Binh Nguyen et.al.|[2606.20246](http://arxiv.org/abs/2606.20246)|null|
+|**2026-06-18**|**Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation**|Jianing Guo et.al.|[2606.20135](http://arxiv.org/abs/2606.20135)|null|
+|**2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jonghoon Lee et.al.|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
+|**2026-06-18**|**EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies**|Ganlin Yang et.al.|[2606.20092](http://arxiv.org/abs/2606.20092)|null|
+|**2026-06-18**|**Tri-Info: Generalizable, Interpretable Failure Prediction for VLA Models via Information Theory**|Jinghan Yang et.al.|[2606.19998](http://arxiv.org/abs/2606.19998)|null|
+|**2026-06-18**|**EquiVLA: A General Framework for Rotationally Equivariant Vision-Language-Action Models**|Thien-Loc Ha et.al.|[2606.19784](http://arxiv.org/abs/2606.19784)|null|
 |**2026-06-15**|**APEX: Adaptive Policy Execution for Precise Manipulation**|Mengfei Zhao et.al.|[2606.16504](http://arxiv.org/abs/2606.16504)|null|
 |**2026-06-15**|**The gas kinematics in 70 μm dark molecular clumps with ammonia**|Chao Ou et.al.|[2606.16355](http://arxiv.org/abs/2606.16355)|null|
 |**2026-06-15**|**Learned Image Compression for Vision-Language-Action Models**|Hyeonjun Kim et.al.|[2606.16253](http://arxiv.org/abs/2606.16253)|null|
