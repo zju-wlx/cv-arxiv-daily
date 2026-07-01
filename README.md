@@ -1,4 +1,4 @@
-## Updated on 2026.06.29
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
+|**2026-06-30**|**OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation**|Arnav Balaji et.al.|[2606.31993](http://arxiv.org/abs/2606.31993)|null|
+|**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958](http://arxiv.org/abs/2606.31958)|null|
+|**2026-06-30**|**Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models**|Lang Cao et.al.|[2606.31846](http://arxiv.org/abs/2606.31846)|null|
+|**2026-06-30**|**UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models**|Xidong Zhang et.al.|[2606.31723](http://arxiv.org/abs/2606.31723)|null|
+|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382](http://arxiv.org/abs/2606.31382)|null|
+|**2026-06-30**|**3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance**|Dongyoon Hwang et.al.|[2606.31329](http://arxiv.org/abs/2606.31329)|null|
+|**2026-06-30**|**MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents**|Hao Sun et.al.|[2606.31167](http://arxiv.org/abs/2606.31167)|null|
+|**2026-06-30**|**Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving**|Anh Dung Dinh et.al.|[2606.31160](http://arxiv.org/abs/2606.31160)|null|
+|**2026-06-30**|**A Modular Vision-Language-Action Robotics Framework for Indoor Environments**|Anindya Jana et.al.|[2606.31144](http://arxiv.org/abs/2606.31144)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](http://arxiv.org/abs/2606.27375)|null|
 |**2026-06-25**|**RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection**|Xingyu Ren et.al.|[2606.27355](http://arxiv.org/abs/2606.27355)|null|
 |**2026-06-25**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295](http://arxiv.org/abs/2606.27295)|null|
@@ -73,7 +83,7 @@
 |**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
 |**2026-05-19**|**The PARADIGM Project II: Characterising Nuclear and Diffuse Radio Components in Local U/LIRGs**|Geferson Lucatelli et.al.|[2605.19658](http://arxiv.org/abs/2605.19658)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
