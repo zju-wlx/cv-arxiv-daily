@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Shiyuan Yang et.al.|[2607.08575](http://arxiv.org/abs/2607.08575)|null|
+|**2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Yixian Zhang et.al.|[2607.08448](http://arxiv.org/abs/2607.08448)|null|
+|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
+|**2026-07-09**|**TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning**|Yushen Liang et.al.|[2607.08283](http://arxiv.org/abs/2607.08283)|null|
+|**2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Qi Lyu et.al.|[2607.08182](http://arxiv.org/abs/2607.08182)|null|
+|**2026-07-09**|**Post-Training in End-to-End Autonomous Driving**|Ruining Yang et.al.|[2607.08072](http://arxiv.org/abs/2607.08072)|null|
+|**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608](http://arxiv.org/abs/2607.07608)|null|
+|**2026-07-08**|**Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting**|Robert Jomar Malate et.al.|[2607.07491](http://arxiv.org/abs/2607.07491)|null|
+|**2026-07-08**|**Initiation Safety: A Missing Dimension in Generalist-Robot Safety**|Zhijin Meng et.al.|[2607.07420](http://arxiv.org/abs/2607.07420)|null|
+|**2026-07-08**|**Multi-Agent Robotic Control with Onboard Vision-Language Models**|Kajetan Rachwał et.al.|[2607.07403](http://arxiv.org/abs/2607.07403)|null|
 |**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501](http://arxiv.org/abs/2607.02501)|null|
 |**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Junhao Shi et.al.|[2607.02466](http://arxiv.org/abs/2607.02466)|null|
 |**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Boyang Sun et.al.|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
