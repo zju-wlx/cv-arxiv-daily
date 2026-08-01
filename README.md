@@ -1,4 +1,4 @@
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents**|Sihyung Yoon et.al.|[2607.27881](http://arxiv.org/abs/2607.27881)|null|
 |**2026-07-30**|**RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy**|Zhengyang Yan et.al.|[2607.27782](http://arxiv.org/abs/2607.27782)|null|
@@ -123,7 +124,7 @@
 |**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
 |**2026-05-19**|**The PARADIGM Project II: Characterising Nuclear and Diffuse Radio Components in Local U/LIRGs**|Geferson Lucatelli et.al.|[2605.19658](http://arxiv.org/abs/2605.19658)|null|
 
-<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
