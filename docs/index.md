@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models**|Houze Xu et.al.|[2608.04765](http://arxiv.org/abs/2608.04765)|null|
+|**2026-08-05**|**Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies**|Shaoguang Wang et.al.|[2608.04692](http://arxiv.org/abs/2608.04692)|null|
+|**2026-08-05**|**Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.04633](http://arxiv.org/abs/2608.04633)|null|
+|**2026-08-05**|**Retrieve in Time, Correct in Frequency**|Yuze Fan et.al.|[2608.04527](http://arxiv.org/abs/2608.04527)|null|
+|**2026-08-05**|**GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs**|Suhas Hegde et.al.|[2608.04510](http://arxiv.org/abs/2608.04510)|null|
+|**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428](http://arxiv.org/abs/2608.04428)|null|
+|**2026-08-05**|**CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention**|Yan Zhang et.al.|[2608.04396](http://arxiv.org/abs/2608.04396)|null|
+|**2026-08-04**|**SAFECAST: Robust Failure Detection for VLA Policies with Contrast-Set Training and Calibration**|Harshitha Rajaprakash et.al.|[2608.04246](http://arxiv.org/abs/2608.04246)|null|
+|**2026-08-04**|**SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation**|Nie Lin et.al.|[2608.04196](http://arxiv.org/abs/2608.04196)|null|
+|**2026-08-04**|**Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies**|Chenyi Wang et.al.|[2608.03727](http://arxiv.org/abs/2608.03727)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents**|Sihyung Yoon et.al.|[2607.27881](http://arxiv.org/abs/2607.27881)|null|
