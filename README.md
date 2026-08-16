@@ -1,4 +1,4 @@
-## Updated on 2026.08.11
+## Updated on 2026.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Decoding Task Progress from VLA Representations**|Atiksh Bhardwaj et.al.|[2608.13474](http://arxiv.org/abs/2608.13474)|null|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
+|**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou et.al.|[2608.13395](http://arxiv.org/abs/2608.13395)|null|
+|**2026-08-13**|**Temporal GRPO: Beyond Trajectory-Level Credit in Vision-Language-Action Reinforcement Learning**|Yao Zhou et.al.|[2608.13026](http://arxiv.org/abs/2608.13026)|null|
+|**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932](http://arxiv.org/abs/2608.12932)|null|
+|**2026-08-13**|**BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving**|Bing Zhan et.al.|[2608.12854](http://arxiv.org/abs/2608.12854)|null|
+|**2026-08-13**|**ARIES-Mission2: A Zero-Shot Vision-Language-Action Framework for Fast Large-Scale Aerial Mission Generation**|Junhao Wei et.al.|[2608.12763](http://arxiv.org/abs/2608.12763)|null|
+|**2026-08-12**|**Scaling Automatic Research Agents via World Models**|Xiyuan Yang et.al.|[2608.12564](http://arxiv.org/abs/2608.12564)|null|
+|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308](http://arxiv.org/abs/2608.12308)|null|
+|**2026-08-12**|**Nascent Embedded-protostar Survey in Taurus (NEST) I: Protostellar Multiplicity**|Aislinn C. Plante et.al.|[2608.12186](http://arxiv.org/abs/2608.12186)|null|
 |**2026-08-07**|**Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model**|Harisankar Babu et.al.|[2608.07361](http://arxiv.org/abs/2608.07361)|null|
 |**2026-08-07**|**TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models**|Ziheng Liu et.al.|[2608.07314](http://arxiv.org/abs/2608.07314)|null|
 |**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Yuehao Huang et.al.|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
@@ -144,7 +154,7 @@
 |**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
 |**2026-05-19**|**The PARADIGM Project II: Characterising Nuclear and Diffuse Radio Components in Local U/LIRGs**|Geferson Lucatelli et.al.|[2605.19658](http://arxiv.org/abs/2605.19658)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
