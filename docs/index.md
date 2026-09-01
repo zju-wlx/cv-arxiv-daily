@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.30643](http://arxiv.org/abs/2608.30643)|null|
+|**2026-08-31**|**Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks**|Chunyun Ma et.al.|[2608.30536](http://arxiv.org/abs/2608.30536)|null|
+|**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
+|**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289](http://arxiv.org/abs/2608.30289)|null|
+|**2026-08-31**|**Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving**|Tongfei Guo et.al.|[2608.30144](http://arxiv.org/abs/2608.30144)|null|
+|**2026-08-31**|**Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving**|Tian Zhang et.al.|[2608.30122](http://arxiv.org/abs/2608.30122)|null|
+|**2026-08-30**|**Training-Free Action Correction for VLA Model Failures via Language Feedback**|Owen Kwon et.al.|[2608.29967](http://arxiv.org/abs/2608.29967)|null|
+|**2026-08-30**|**SymVD: Symmetric Vision Language Action Distillation for Robot Manipulation**|Hyewon Choi et.al.|[2608.29828](http://arxiv.org/abs/2608.29828)|null|
+|**2026-08-30**|**DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting**|Yuxuan Gao et.al.|[2608.29749](http://arxiv.org/abs/2608.29749)|null|
+|**2026-08-30**|**Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency**|Tian Yu et.al.|[2608.29583](http://arxiv.org/abs/2608.29583)|null|
 |**2026-08-24**|**The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State**|Michael C. Logue et.al.|[2608.23527](http://arxiv.org/abs/2608.23527)|null|
 |**2026-08-24**|**Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models**|Sangoh Lee et.al.|[2608.23478](http://arxiv.org/abs/2608.23478)|null|
 |**2026-08-24**|**ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots**|Nils Mandischer et.al.|[2608.23320](http://arxiv.org/abs/2608.23320)|null|
