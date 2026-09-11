@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling**|Wei Li et.al.|[2609.11875](http://arxiv.org/abs/2609.11875)|null|
+|**2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Jianming Ma et.al.|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
+|**2026-09-10**|**FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model**|Haoran Pei et.al.|[2609.11445](http://arxiv.org/abs/2609.11445)|null|
+|**2026-09-10**|**Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models**|Gautam Rajendrakumar Gare et.al.|[2609.11310](http://arxiv.org/abs/2609.11310)|null|
+|**2026-09-10**|**2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation**|Yutong Hu et.al.|[2609.11308](http://arxiv.org/abs/2609.11308)|null|
+|**2026-09-10**|**IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies**|Kian Hosseinkhani et.al.|[2609.10915](http://arxiv.org/abs/2609.10915)|null|
+|**2026-09-09**|**When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents**|Qinzhen Ma et.al.|[2609.10873](http://arxiv.org/abs/2609.10873)|null|
+|**2026-09-09**|**HuRo: Robotizing Human Videos for Scalable VLA Pretraining**|Jinho Jeong et.al.|[2609.10706](http://arxiv.org/abs/2609.10706)|null|
+|**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Yanzhe Chen et.al.|[2609.10522](http://arxiv.org/abs/2609.10522)|null|
+|**2026-09-09**|**Frequency-Conditioned Flow Matching for Vision-Language-Action Models**|Haochen Niu et.al.|[2609.10405](http://arxiv.org/abs/2609.10405)|null|
 |**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193](http://arxiv.org/abs/2609.04193)|null|
 |**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Ruoyu Yao et.al.|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
