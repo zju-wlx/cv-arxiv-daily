@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models**|Erik Deinzer et.al.|[2609.22040](http://arxiv.org/abs/2609.22040)|null|
+|**2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Yichen Liu et.al.|[2609.21948](http://arxiv.org/abs/2609.21948)|null|
+|**2026-09-18**|**CommitFlow: Semantic Commitment Verification and Local Correction for Long-Horizon Robot Manipulation VLA Execution**|Zixiang Zhao et.al.|[2609.21908](http://arxiv.org/abs/2609.21908)|null|
+|**2026-09-18**|**A Sim-to-Real Integration Pipeline for Training and Deployment of Chunk-Based VLA Manipulation Policies**|Mathilde Kappel et.al.|[2609.21817](http://arxiv.org/abs/2609.21817)|null|
+|**2026-09-18**|**PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation**|Shengbao Li et.al.|[2609.21753](http://arxiv.org/abs/2609.21753)|null|
+|**2026-09-18**|**ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**|Boni Hu et.al.|[2609.21712](http://arxiv.org/abs/2609.21712)|null|
+|**2026-09-18**|**Outcome-Conditioned End-Effector Geometry Across Vision-Language-Action Policies**|Xingyu Lin et.al.|[2609.21659](http://arxiv.org/abs/2609.21659)|null|
+|**2026-09-18**|**SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations**|Hiroaki Kingetsu et.al.|[2609.21650](http://arxiv.org/abs/2609.21650)|null|
+|**2026-09-18**|**AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining**|Di Wu et.al.|[2609.21461](http://arxiv.org/abs/2609.21461)|null|
+|**2026-09-18**|**FAN: Foresight Action Normalization for Continual Adaptation of Vision-Language-Action Models**|Yijun Hong et.al.|[2609.21358](http://arxiv.org/abs/2609.21358)|null|
 |**2026-09-15**|**FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence**|Yinhao Li et.al.|[2609.17210](http://arxiv.org/abs/2609.17210)|null|
 |**2026-09-15**|**Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement**|Tobias Schaffer et.al.|[2609.17115](http://arxiv.org/abs/2609.17115)|null|
 |**2026-09-15**|**SWIM: Vision-Language-Grounded Soft Whole-Body Interactive Manipulation**|Tingcong Liu et.al.|[2609.17035](http://arxiv.org/abs/2609.17035)|null|
