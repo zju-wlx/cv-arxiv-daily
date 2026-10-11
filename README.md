@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation**|Boyao Han et.al.|[2610.12451](http://arxiv.org/abs/2610.12451)|null|
+|**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Mert Albaba et.al.|[2610.12435](http://arxiv.org/abs/2610.12435)|null|
+|**2026-10-08**|**ARC: A Reasoning Recipe for Robot Foundation Models**|Gokul Puthumanaillam et.al.|[2610.12386](http://arxiv.org/abs/2610.12386)|null|
+|**2026-10-08**|**Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement**|Kairui Hu et.al.|[2610.12369](http://arxiv.org/abs/2610.12369)|null|
+|**2026-10-08**|**PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies**|Yu Liu et.al.|[2610.12285](http://arxiv.org/abs/2610.12285)|null|
+|**2026-10-08**|**Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning**|Yuchen Zhou et.al.|[2610.12231](http://arxiv.org/abs/2610.12231)|null|
+|**2026-10-08**|**RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control**|Yuxin Chen et.al.|[2610.12185](http://arxiv.org/abs/2610.12185)|null|
+|**2026-10-08**|**ContourVLA: A Closed-Loop Perception-Action Contour Policy for Generalized Referring Expression Segmentation**|Ruicheng Zhang et.al.|[2610.12107](http://arxiv.org/abs/2610.12107)|null|
+|**2026-10-08**|**Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models**|Hongyu Shi et.al.|[2610.12090](http://arxiv.org/abs/2610.12090)|null|
+|**2026-10-08**|**ManiUnit: A Manipulation Skill Dataset and Benchmark for Long-Horizon Tasks**|Guoting Wei et.al.|[2610.12089](http://arxiv.org/abs/2610.12089)|null|
 |**2026-10-05**|**Recursive Video In-Context Learning for Agentic Robot**|Wenrui Bao et.al.|[2610.06843](http://arxiv.org/abs/2610.06843)|null|
 |**2026-10-05**|**SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models**|Xiaodong Wang et.al.|[2610.06598](http://arxiv.org/abs/2610.06598)|null|
 |**2026-10-05**|**Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes**|Jungho Kim et.al.|[2610.06469](http://arxiv.org/abs/2610.06469)|null|
@@ -244,7 +254,7 @@
 |**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
 |**2026-05-19**|**The PARADIGM Project II: Characterising Nuclear and Diffuse Radio Components in Local U/LIRGs**|Geferson Lucatelli et.al.|[2605.19658](http://arxiv.org/abs/2605.19658)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
