@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971](http://arxiv.org/abs/2610.32971)|null|
+|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
+|**2026-10-23**|**When Human Corrections Travel: Safety in Federated VLA Adaptation**|Vigneshwaran Subbaraju et.al.|[2610.32888](http://arxiv.org/abs/2610.32888)|null|
+|**2026-10-23**|**Retiming Robot Demonstrations with a Learned Speed Prior**|Seungyong Moon et.al.|[2610.32676](http://arxiv.org/abs/2610.32676)|null|
+|**2026-10-23**|**When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning**|Zongyao Zhao et.al.|[2610.32431](http://arxiv.org/abs/2610.32431)|null|
+|**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312](http://arxiv.org/abs/2610.32312)|null|
+|**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271](http://arxiv.org/abs/2610.32271)|null|
+|**2026-10-23**|**Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems**|Christian A. Rogers et.al.|[2610.32208](http://arxiv.org/abs/2610.32208)|null|
+|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Jiabing Yang et.al.|[2610.32102](http://arxiv.org/abs/2610.32102)|null|
+|**2026-10-23**|**TTT in VLA Models: Exploring Training with Human Demonstrations**|Qiangong Zhou et.al.|[2610.32094](http://arxiv.org/abs/2610.32094)|null|
 |**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
 |**2026-10-20**|**AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics**|Xinxin Liu et.al.|[2610.28589](http://arxiv.org/abs/2610.28589)|null|
 |**2026-10-20**|**Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs**|Matteo Cercola et.al.|[2610.28184](http://arxiv.org/abs/2610.28184)|null|
@@ -264,7 +274,7 @@
 |**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
 |**2026-05-19**|**The PARADIGM Project II: Characterising Nuclear and Diffuse Radio Components in Local U/LIRGs**|Geferson Lucatelli et.al.|[2605.19658](http://arxiv.org/abs/2605.19658)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
