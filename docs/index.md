@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
+|**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Xiangyu Xu et.al.|[2610.40532](http://arxiv.org/abs/2610.40532)|null|
+|**2026-10-29**|**Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design**|Jingxu Gu et.al.|[2610.40430](http://arxiv.org/abs/2610.40430)|null|
+|**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373](http://arxiv.org/abs/2610.40373)|null|
+|**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349](http://arxiv.org/abs/2610.40349)|null|
+|**2026-10-29**|**RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence**|Xin Ma et.al.|[2610.40026](http://arxiv.org/abs/2610.40026)|null|
+|**2026-10-29**|**LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks**|Enqiao Lu et.al.|[2610.40016](http://arxiv.org/abs/2610.40016)|null|
+|**2026-10-29**|**How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function**|Dabin Seo et.al.|[2610.40002](http://arxiv.org/abs/2610.40002)|null|
+|**2026-10-29**|**From Reasoning to Action: Consequence-Grounded Alignment for Vision-Language-Action Models**|Yixue Zhang et.al.|[2610.39543](http://arxiv.org/abs/2610.39543)|null|
+|**2026-10-29**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Huabin Peng et.al.|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
 |**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971](http://arxiv.org/abs/2610.32971)|null|
 |**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
 |**2026-10-23**|**When Human Corrections Travel: Safety in Federated VLA Adaptation**|Vigneshwaran Subbaraju et.al.|[2610.32888](http://arxiv.org/abs/2610.32888)|null|
