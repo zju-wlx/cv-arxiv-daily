@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596](http://arxiv.org/abs/2611.26596)|null|
+|**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444](http://arxiv.org/abs/2611.26444)|null|
+|**2026-11-19**|**Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models**|Zixuan Liu et.al.|[2611.26438](http://arxiv.org/abs/2611.26438)|null|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**| EngineAI et.al.|[2611.26420](http://arxiv.org/abs/2611.26420)|null|
+|**2026-11-19**|**TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action**|Weile Li et.al.|[2611.26405](http://arxiv.org/abs/2611.26405)|null|
+|**2026-11-19**|**Beyond the Sink Interpretation: Radial Attention in Flow-Based VLA Policies**|Yuxi Zheng et.al.|[2611.26385](http://arxiv.org/abs/2611.26385)|null|
+|**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242](http://arxiv.org/abs/2611.26242)|null|
+|**2026-11-19**|**Teaching Vision-Language-Action Models to Stop Safely**|Zheyuan Liu et.al.|[2611.26239](http://arxiv.org/abs/2611.26239)|null|
+|**2026-11-19**|**One View, One Action: Spatially Generalizable VLAs through Observation-Aligned Experts and Cross Graph Consistency**|Jinxi Liu et.al.|[2611.26161](http://arxiv.org/abs/2611.26161)|null|
 |**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Run Luo et.al.|[2611.18397](http://arxiv.org/abs/2611.18397)|null|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
 |**2026-11-13**|**ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents**|Yundi Cai et.al.|[2611.18176](http://arxiv.org/abs/2611.18176)|null|
