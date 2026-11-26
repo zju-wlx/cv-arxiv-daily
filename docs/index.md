@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs**|Agelos Kratimenos et.al.|[2611.34914](http://arxiv.org/abs/2611.34914)|null|
+|**2026-11-25**|**RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies**|Insup Lee et.al.|[2611.34864](http://arxiv.org/abs/2611.34864)|null|
+|**2026-11-25**|**Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents**|Yuxiang Lai et.al.|[2611.34778](http://arxiv.org/abs/2611.34778)|null|
+|**2026-11-25**|**ELMO: Emergent Representations In Imitation Learning Via Dynamic Hierarchical Action Chunking**|Jasper Gerigk et.al.|[2611.34741](http://arxiv.org/abs/2611.34741)|null|
+|**2026-11-25**|**A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models**|Yuhao Luo et.al.|[2611.34698](http://arxiv.org/abs/2611.34698)|null|
+|**2026-11-25**|**RoboEvo $^2$ : Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Chenzhi Liu et.al.|[2611.34675](http://arxiv.org/abs/2611.34675)|null|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Zikai Zhang et.al.|[2611.34614](http://arxiv.org/abs/2611.34614)|null|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Liufan Tan et.al.|[2611.34560](http://arxiv.org/abs/2611.34560)|null|
+|**2026-11-25**|**Dynamic Task Update Benchmark (DTU-Bench): Evaluating Runtime Task Adaptation in Robotic Manipulation**|Yanran Jiang et.al.|[2611.34538](http://arxiv.org/abs/2611.34538)|null|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449](http://arxiv.org/abs/2611.34449)|null|
 |**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596](http://arxiv.org/abs/2611.26596)|null|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
 |**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444](http://arxiv.org/abs/2611.26444)|null|
